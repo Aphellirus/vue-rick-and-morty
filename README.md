@@ -28,4 +28,6 @@ Links with everything used in this project:
 </table>
 
 <h2> How it looks: </h2><br/>
+
+Demo<br/>
 ![Demo](demo/rick and morty vuejs demo.gif)<br/>
