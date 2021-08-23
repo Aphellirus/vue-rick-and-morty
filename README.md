@@ -1,6 +1,6 @@
 # Vue-Rick-and-Morty
 
-A simple SPA made with Vue.js showing a random characters from the show Rick & Morty
+A simple SPA made with Vue.js showing random characters from the show Rick & Morty
 <br/>
 
 <h3>How to run it?</h3>
