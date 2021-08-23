@@ -1,4 +1,4 @@
-# Django-To-Do-list
+# Vue-Rick-and-Morty
 
 A simple SPA made with Vue.js showing a random characters from the show Rick & Morty
 <br/>
@@ -29,4 +29,3 @@ Links with everything used in this project:
 </table>
 
 <h2> How it looks: </h2><br/>
-![rick and morty vuejs demo](https://user-images.githubusercontent.com/60182775/130396954-afa70c1e-b4d2-4485-9015-dea3390d79c8.gif)<br/>
