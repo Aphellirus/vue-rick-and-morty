@@ -17,7 +17,6 @@ A simple SPA made with Vue.js showing a random characters from the show Rick & M
 </table>
 
 <br/>
-<br/>
 Links with everything used in this project:
 <table>
   <tbody>
@@ -29,3 +28,4 @@ Links with everything used in this project:
 </table>
 
 <h2> How it looks: </h2><br/>
+![Demo](demo/rick and morty vuejs demo.gif)<br/>
